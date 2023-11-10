@@ -1,0 +1,36 @@
+nav {
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  
+  nav img {
+    width: 90px;
+  }
+  
+  ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  li a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  li a:hover {
+    text-decoration: underline;
+  }
+  
+  nav {
+    background-color: #edcc9b;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 20px;
+  }
